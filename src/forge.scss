@@ -31,6 +31,10 @@ section.track-playback {
 		height: 100%;
 		width: 100%;
 
+		&.rock {
+			background-image: url('../assets/img/Rock.webp');
+		}
+
 		&.etica {
 			background-image: url('../assets/img/Etica.webp');
 		}
@@ -45,7 +49,11 @@ section.track-playback {
 
 		&.dur {
 			background-image: url('../assets/img/Dur.webp');
-		}		
+		}
+
+		&.macadam {
+			background-image: url('../assets/img/Macadam.webp');
+		}
 	}
 
 	.featured-track-wrapper {
@@ -290,6 +298,10 @@ section.credits {
 		height: 100%;
 		width: 100%;
 
+		&.rock {
+			background-image: url('../assets/img/Rock.webp');
+		}
+
 		&.etica {
 			background-image: url('../assets/img/Etica.webp');
 		}
@@ -304,6 +316,10 @@ section.credits {
 
 		&.dur {
 			background-image: url('../assets/img/Dur.webp');
+		}
+
+		&.macadam {
+			background-image: url('../assets/img/Macadam.webp');
 		}
 	}
 
@@ -368,6 +384,12 @@ section.credits {
 			&:focus,
 			&:hover {
 				filter: invert(1);
+			}
+
+			&.disabled {
+				filter: grayscale(100%) brightness(40%) contrast(0.8);
+				pointer-events: none;
+				user-select: none;
 			}
 
 			img {
