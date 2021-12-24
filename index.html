@@ -37,9 +37,23 @@
   <!-- Twitter card meta -->
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="The Forge, le groupe"/>
-  <meta name="twitter:creator" content="@a_Messmaker">  
+  <meta name="twitter:creator" content="@a_Messmaker">
   <meta name="twitter:description" content="The Forge est un groupe français de rock progressif fondé au début des années 80. Mettant à l'honneur des compositions originales et variés, le groupe s'est façonné un son véritable au fil des années."/>
   <meta name="twitter:image" content="https://theforge.band/assets/img/logo-social.jpg"/>
+  <!-- Matomo analytics https://matomo.org/ -->
+  <script>
+var _paq = window._paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+  var u="//matomo.mycozy.space/";
+  _paq.push(['setTrackerUrl', u+'matomo.php']);
+  _paq.push(['setSiteId', '25']);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+  </script>
 </head>
 <body>
 <section class="track-playback">
@@ -87,7 +101,7 @@
     <a href="https://music.amazon.fr/albums/" id="amazon" class="item disabled" target="_blank" rel="noreferrer noopener">
       <img src="assets/img/amazon.svg" alt="amazon-link">
       <p>Amazon</p>
-    </a>    
+    </a>
     <a href="https://theforgeband.bandcamp.com/album/rocknroll-single" id="bandcamp" class="item" target="_blank" rel="noreferrer noopener">
       <img src="assets/img/bandcamp.svg" alt="bandcamp-link">
       <p>Bandcamp</p>
@@ -103,7 +117,7 @@
 <div id="modal-overlay" class="modal-overlay"></div>
 <script type="text/javascript" src="assets/dist/Forge.bundle.js"></script>
 <script type="text/javascript">
-const lang = navigator.language || navigator.userLanguage; 
+const lang = navigator.language || navigator.userLanguage;
 if (lang !== 'fr') {
   document.location.href = 'index_en.html';
 } else {
