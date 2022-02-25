@@ -43,6 +43,10 @@ section.track-playback {
 			background-image: url('../assets/img/Forge.webp');
 		}
 
+		&.live {
+			background-image: url('../assets/img/Live.webp');
+		}
+
 		&.pox {
 			background-image: url('../assets/img/Pox.webp');
 		}
@@ -308,6 +312,10 @@ section.credits {
 
 		&.forge {
 			background-image: url('../assets/img/Forge.webp');
+		}
+
+		&.live {
+			background-image: url('../assets/img/Live.webp');
 		}
 
 		&.pox {
