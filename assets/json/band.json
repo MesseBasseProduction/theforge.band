@@ -1,0 +1,623 @@
+{
+  "members": [
+    {
+      "fullName": "Luc Boulogne",
+      "picture": "Luc.webp",
+      "pictureCredit": "Pascal Cosnier",
+      "bio": {
+        "en": "<p>French guitarist and founder of the progressive rock band The Forge. Brother of musicians Paul Boulogne, Vincent Boulogne and Christophe Boulogne.</p>",
+        "fr": "<p>Guitariste français et fondateur du groupe de rock progressif The Forge. Frère des musiciens Paul Boulogne, Vincent Boulogne et Christophe Boulogne.</p>",
+        "de": "<p>Französischer Gitarrist und Gründer der Progressive-Rock-Band The Forge. Bruder der Musiker Paul Boulogne, Vincent Boulogne und Christophe Boulogne.</p>",
+        "es": "<p>Guitarrista francés y fundador de la banda de rock progresivo The Forge. Hermano de los músicos Paul Boulogne, Vincent Boulogne y Christophe Boulogne.</p>"
+      }
+    }, {
+      "fullName": "Vincent Boulogne",
+      "picture": "Vincent.webp",
+      "pictureCredit": "Pascal Cosnier",
+      "bio": {
+        "en": "<p>French drummer of the progressive rock band The Forge. Brother of musicians Luc Boulogne, Paul Boulogne and Christophe Boulogne.</p>",
+        "fr": "<p>Batteur français du groupe de rock progressif The Forge. Frère des musiciens Luc Boulogne, Paul Boulogne et Christophe Boulogne.</p>",
+        "de": "<p>Französischer Schlagzeuger der Progressive-Rock-Band The Forge. Bruder der Musiker Luc Boulogne, Paul Boulogne und Christophe Boulogne.</p>",
+        "es": "<p>Baterista francés de la banda de rock progresivo The Forge. Hermano de los músicos Luc Boulogne, Paul Boulogne y Christophe Boulogne.</p>"
+      }
+    }, {
+      "fullName": "Tom Souty",
+      "picture": "Tom.webp",
+      "pictureCredit": "Arthur Beaulieu",
+      "bio": {
+        "en": "<p>French guitarist and drummer from Clamart (Hauts-de-Seine), playing in The Forge, Naamah, It Comes at Night and NAC.</p>",
+        "fr": "<p>Guitariste et batteur français originaire de Clamart (Hauts-de-Seine), jouant dans The Forge, Naamah, It Comes at Night et NAC.</p>",
+        "de": "<p>Französischer Gitarrist und Schlagzeuger von Clamart (Hauts-de-Seine), der in The Forge, Naamah, It Comes at Night und NAC spielt.</p>",
+        "es": "<p>Guitarrista y baterista francés de Clamart (Hauts-de-Seine), tocando en The Forge, Naamah, It Comes at Night y NAC.</p>"
+      }
+    }, {
+      "fullName": "Paul Boulogne",
+      "picture": "Paul.webp",
+      "pictureCredit": "Pascal Cosnier",
+      "bio": {
+        "en": "<p>French bassist of the progressive rock band The Forge. Brother of musicians Luc Boulogne, Vincent Boulogne and Christophe Boulogne.</p>",
+        "fr": "<p>Bassiste français du groupe de rock progressif The Forge. Frère des musiciens Luc Boulogne, Vincent Boulogne et Christophe Boulogne.</p>",
+        "de": "<p>Französischer Bassist der Progressive-Rock-Band The Forge. Bruder der Musiker Luc Boulogne, Vincent Boulogne und Christophe Boulogne.</p>",
+        "es": "<p>Bajista francés de la banda de rock progresivo The Forge. Hermano de los músicos Luc Boulogne, Vincent Boulogne y Christophe Boulogne.</p>"
+      }
+    }
+  ],
+  "releases": [
+    {
+      "title": "Etica Nikomak",
+      "artist": "The Forge",
+      "cover": "Etica.webp",
+      "audio": "EticaExtract.mp3",
+      "date": "7-10-2021",
+      "duration": "32:44",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/08D3o3S0y7Y3I2z2YD95Wb/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/etica-nikomak/1590605239/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09JLK7CQJ/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/266135292/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=v8yQdRsJah4&list=PLGrV25VkQxOeALepofxUafUZR2_4Hhy8K&index=1/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/etica-nikomak/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/201425661/"
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20503012-The-Forge-Etica-Nikomak/"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "R U S H",
+          "duration": "5:38",
+          "composer": "Luc Boulogne, Paul Boulogne, Tom Souty, Vincent Boulogne",
+          "author": "–"
+        }, {
+          "title": "Metalfloyd",
+          "duration": "6:41",
+          "composer": "Luc Boulogne, Paul Boulogne, Tom Souty, Vincent Boulogne",
+          "author": "–"
+        }, {
+          "title": "Acoustica",
+          "duration": "6:59",
+          "composer": "Luc Boulogne, Paul Boulogne, Tom Souty, Vincent Boulogne",
+          "author": "–"
+        }, {
+          "title": "Etica Nikomak",
+          "duration": "13:26",
+          "composer": "Luc Boulogne, Paul Boulogne, Tom Souty, Vincent Boulogne",
+          "author": "–"
+        }
+      ]
+    }, {
+      "title": "The Forge",
+      "artist": "The Forge",
+      "cover": "Forge.webp",
+      "audio": "ForgeExtract.mp3",
+      "date": "6-10-2021",
+      "duration": "39:00",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6JOsCQ7bUWptYKCtA04Jt7/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/the-forge/1590930991/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09JS8XW45/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/266746652/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=4JecXQAe7nQ&list=PLGrV25VkQxOdBaIl_kHM0Z9mjq_1D3LrK&index=1/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/the-forge/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/201669802/"
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20560249-The-Forge-The-Forge/"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Can You Heal My Pain?",
+          "duration": "5:16",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Doliprane",
+          "duration": "6:13",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Far From City",
+          "duration": "4:46",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Fight Is Always Run",
+          "duration": "7:57",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Mirage",
+          "duration": "6:35",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Heart Of Stone",
+          "duration": "8:10",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }
+      ]
+    }, {
+      "title": "Small Pox",
+      "artist": "Live...!",
+      "cover": "Live.webp",
+      "audio": "LiveExtract.mp3",
+      "date": "25-11-2021",
+      "duration": "1:17:33",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/5voAVPDuSDOY2wtPfADAIQ/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/live/1647737446/"
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/362057537/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=xGPS2QmyScc&list=PLGrV25VkQxOdVkj-qUemG65XSXwM5luLu&index=1/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/live/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/251266946/"
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/21077248-Small-Pox-Live/"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Raoul (Live)",
+          "duration": "4:15",
+          "composer": "Luc Boulogne",
+          "author": "–"
+        }, {
+          "title": "Sweet Little Way (Live)",
+          "duration": "4:15",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "We Want To Know (Live)",
+          "duration": "4:56",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Close My Eyes (Live)",
+          "duration": "8:58",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Can You Heal My Pain? (Live)",
+          "duration": "5:00",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Doliprane (Live)",
+          "duration": "6:12",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Fight Is Always Run (Live)",
+          "duration": "7:15",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Heart Of Stone (Live)",
+          "duration": "7:40",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "I Don't Need No Doctor (Live)",
+          "duration": "6:22",
+          "composer": "Ashford & Simpson, Jo Armstead",
+          "author": "Ashford & Simpson, Jo Armstead"
+        }, {
+          "title": "Rock'n'Roll (Live)",
+          "duration": "3:57",
+          "composer": "Luc Boulogne",
+          "author": "–"
+        }, {
+          "title": "Just The Reality (Live)",
+          "duration": "6:17",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Instru (Live)",
+          "duration": "4:25",
+          "composer": "Luc Boulogne",
+          "author": "–"
+        }, {
+          "title": "Mirage (Live)",
+          "duration": "6:00",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }
+      ]
+    }, {
+      "title": "Small Pox",
+      "artist": "Small Pox",
+      "cover": "Pox.webp",
+      "audio": "PoxExtract.mp3",
+      "date": "5-10-2021",
+      "duration": "29:35",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6v6HlX4bDfFDWrrTRXeQj7/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/small-pox-ep/1591523883/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09K3S3Y66/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/267582302/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=VRg5BQkyIiE&list=PLGrV25VkQxOde4ci3lta5oX6WJbPb7iXU&index=1/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/small-pox/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/202078894/"
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20548198-Small-Pox-Small-Pox/"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Close My Eyes",
+          "duration": "9:37",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Mirage",
+          "duration": "5:59",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Doliprane",
+          "duration": "6:42",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }, {
+          "title": "Just The Reality",
+          "duration": "7:14",
+          "composer": "Luc Boulogne",
+          "author": "Stéphane Philippe"
+        }
+      ]
+    }, {
+      "title": "Dur d'Être Apache...",
+      "artist": "Le Forge",
+      "cover": "Dur.webp",
+      "audio": "DurExtract.mp3",
+      "date": "4-10-2021",
+      "duration": "19:00",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/22mM01wqd6mZNqt41Bqyq4/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/dur-d%C3%AAtre-apache-ep/1591523511/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B09K34PWZX/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/267582372/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ZuLNodgTtzI&list=PLGrV25VkQxOdkK4Hjc80bQ5pdcBfB9N_M&index=1/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/dur-d-tre-apache/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/202078865/"
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/20515321-Le-Forge-Dur-d%C3%8Atre-Apache/"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Président Samouraï",
+          "duration": "5:14",
+          "composer": "Luc Boulogne, Michel Mathieu, Vincent Boulogne",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "In / Out",
+          "duration": "5:44",
+          "composer": "Luc Boulogne, Michel Mathieu, Vincent Boulogne",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "Aime Moi",
+          "duration": "4:47",
+          "composer": "Luc Boulogne, Michel Mathieu, Vincent Boulogne",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "Macadam",
+          "duration": "3:13",
+          "composer": "Luc Boulogne, Michel Mathieu, Vincent Boulogne",
+          "author": "Michel Mathieu"
+        }
+      ]
+    }, {
+      "title": "Live à Gennevilliers",
+      "artist": "Macadam Forge",
+      "cover": "Gennevilliers.webp",
+      "audio": "GennevilliersExtract.mp3",
+      "date": "06-05-2022",
+      "duration": "31:30",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/7h9FufDPGroMqXR1Wq4aIp/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/live-%C3%A0-gennevilliers/1647758356/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BGZMDHWL/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/fr/album/362057627/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb&index=1/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/live-gennevilliers/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/251266999/"
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23129375-Macadam-Forge-Live-%C3%A0-Gennevilliers/"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Loulou (Live)",
+          "duration": "6:10",
+          "composer": "Christophe Boulogne, Luc Boulogne",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "Hey Petite (Live)",
+          "duration": "3:58",
+          "composer": "Christophe Boulogne, Luc Boulogne, Michel Mathieu",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "Funky (Live)",
+          "duration": "4:49",
+          "composer": "Christophe Boulogne, Luc Boulogne, Michel Mathieu",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "La Bête (Live)",
+          "duration": "4:19",
+          "composer": "Christophe Boulogne, Luc Boulogne, Michel Mathieu",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "Boogie (Live)",
+          "duration": "6:26",
+          "composer": "Christophe Boulogne, Luc Boulogne, Michel Mathieu",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "Macadam (Live)",
+          "duration": "3:12",
+          "composer": "Christophe Boulogne, Luc Boulogne, Michel Mathieu",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "Hard (Live)",
+          "duration": "2:37",
+          "composer": "Christophe Boulogne, Luc Boulogne, Michel Mathieu",
+          "author": "–"
+        }
+      ]
+    }, {
+      "title": "Loulou / Montpar' Blues",
+      "artist": "Macadam Forge",
+      "cover": "Macadam.webp",
+      "audio": "MacadamExtract.mp3",
+      "date": "17-11-2021",
+      "duration": "8:11",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/34MkBBhsjA23cHARdbbtvs/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/loulou-montpar-blues-single/1647758125/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0BH1J89W7/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/362050197/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=NjlcpdkZnb8&list=PLGrV25VkQxOfFnRPT0QqYXeIk-hNdPvQO&index=1/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/loulou-montpar-blues-single/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/251258493/"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Macadam-forge/Loulou-montpar-blues-single/"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/21012571-Macadam-Forge-Loulou-Montpar-Blues/"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Loulou",
+          "duration": "4:03",
+          "composer": "Christophe Boulogne, Luc Boulogne",
+          "author": "Michel Mathieu"
+        }, {
+          "title": "Montpar' Blues",
+          "duration": "4:08",
+          "composer": "Christophe Boulogne, Luc Boulogne",
+          "author": "Michel Mathieu"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "type": "facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/theforgebandfr/"
+    }, {
+      "type": "youtube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCKMz2XoRcvj-UL9ZvOu3fiQ/"
+    }, {
+      "type": "spotify",
+      "name": "Spotify",
+      "url": "https://open.spotify.com/artist/0qrcwgy9oeI9wXggLvFL30/"
+    }, {
+      "type": "apple",
+      "name": "Apple Music",
+      "url": "https://music.apple.com/artist/the-forge/1590604311/"
+    }, {
+      "type": "deezer",
+      "name": "Deezer",
+      "url": "https://www.deezer.com/artist/163112637/"
+    }, {
+      "type": "amazon",
+      "name": "Amazon Music",
+      "url": "https://music.amazon.com/artists/B073RRFKDQ/the-forge/"
+    }, {
+      "type": "tidal",
+      "name": "Tidal",
+      "url": "https://listen.tidal.com/artist/8912776/"
+    }, {
+      "type": "bandcamp",
+      "name": "Bandcamp",
+      "url": "https://theforgeband.bandcamp.com/"
+    }, {
+      "type": "discogs",
+      "name": "Discogs",
+      "url": "https://www.discogs.com/artist/8570763-The-Forge-2"
+    }
+  ]
+}

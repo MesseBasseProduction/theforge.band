@@ -1,0 +1,18 @@
+{
+  "band": {
+    "name": "The Forge",
+    "desc": "The Forge est un groupe français de rock progressif fondé au début des années 80. Mettant à l'honneur des compositions originales et variés, le groupe s'est façonné un son véritable au fil des années."
+  },
+  "listenLink": "Voir la discographie",
+  "treeLink": "Retrouvez-nous en ligne",
+  "musicians": "Les Musiciens",
+  "works": "Les Œuvres",
+  "learnMore": "Cliquez pour en savoir plus",
+  "from": "de",
+  "listenOnline": "Écouter en ligne",
+  "seeMore": "voir plus",
+  "publishedOn": "Publié le",
+  "composer": "Compositeur",
+  "author": "Auteur",
+  "months": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Decembre"]
+}

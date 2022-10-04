@@ -1,0 +1,18 @@
+{
+  "band": {
+    "name": "The Forge",
+    "desc": "The Forge is a French progressive rock band founded in the early 80s. Featuring original and varied compositions, the group has shaped a real sound over the years."
+  },
+  "listenLink": "Check the discography",
+  "treeLink": "Find us online",
+  "musicians": "Musicians",
+  "works": "Pieces",
+  "learnMore": "Click to read more",
+  "from": "from",
+  "listenOnline": "Listen online",
+  "seeMore": "see more",
+  "publishedOn": "Released on",
+  "composer": "Composer",
+  "author": "Author", 
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+}
