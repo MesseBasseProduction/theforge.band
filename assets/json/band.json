@@ -44,6 +44,74 @@
   ],
   "releases": [
     {
+      "title": "Musaïc",
+      "artist": "The Forge",
+      "cover": "Musaic.webp",
+      "audio": "MusaicExtract.mp3",
+      "date": "8-2-2024",
+      "duration": "33:33",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/4odEdSMnAsl5Fbn2lE184s/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/musa%C3%AFc/1728684813/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0CTR3BGRG/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/542972222/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=b3VB6QDEd3U&list=PLGrV25VkQxOcc0gaiY9rHL5CGd6SrasY2&index=1/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://theforgeband.bandcamp.com/album/musa-c"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/343181173/"
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/29692798-The-Forge-Musa%C3%AFc"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "5HTT",
+          "duration": "10:14",
+          "composer": "Luc Boulogne, Paul Boulogne, Tom Souty, Vincent Boulogne",
+          "author": "–"
+        }, {
+          "title": "Abri' Blues",
+          "duration": "7:36",
+          "composer": "Luc Boulogne, Paul Boulogne, Tom Souty, Vincent Boulogne",
+          "author": "–"
+        }, {
+          "title": "Musaïc",
+          "duration": "10:20",
+          "composer": "Luc Boulogne, Paul Boulogne, Tom Souty, Vincent Boulogne",
+          "author": "–"
+        }, {
+          "title": "Macadam Forge",
+          "duration": "5:18",
+          "composer": "Luc Boulogne, Paul Boulogne, Tom Souty, Vincent Boulogne",
+          "author": "–"
+        }
+      ]
+    }, {
       "title": "Etica Nikomak",
       "artist": "The Forge",
       "cover": "Etica.webp",
