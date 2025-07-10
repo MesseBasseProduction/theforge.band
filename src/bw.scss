@@ -47,6 +47,19 @@ main {
   width: 100%;
 }
 
+select {
+  background: #181818;
+  border: solid 1px rgba(212, 212, 212, .5);
+  border-radius: .5rem;
+  color: #d4d4d4;
+  cursor: pointer;
+  padding: .2rem .5rem;
+  position: absolute;
+  right: 4rem;
+  top: 2rem;
+  z-index: 150;
+}
+
 .home {
   position: fixed;
   height: 2rem;

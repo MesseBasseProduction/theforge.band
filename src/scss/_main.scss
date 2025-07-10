@@ -134,6 +134,30 @@ main.bio {
     }
   }
 
+  figure {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: calc(33% - .5rem) calc(33% - .5rem) calc(33% - .5rem);
+    justify-items: center;
+    margin-bottom: var(--spacing-large);
+    padding: 0 8%;
+    padding-right: calc(8% + var(--default-scroll-size));
+    width: 100%;
+
+    iframe {
+      aspect-ratio: 16 / 9;
+      border-radius: .5rem;
+      grid-column: span 3;
+      height: 100%;
+      width: 100%;
+    }
+
+    img {
+      border-radius: .5rem;
+      max-width: 100%;
+    }
+  }
+
   footer {
     background-color: rgba(45, 66, 48, 0.67);
     padding: var(--mg-lg) 0;

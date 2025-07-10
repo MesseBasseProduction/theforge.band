@@ -7,6 +7,7 @@
   "treeLink": "Retrouvez-nous en ligne",
   "musicians": "Les Musiciens",
   "works": "Les Œuvres",
+  "mdeias": "Médias",
   "learnMore": "Cliquez pour en savoir plus",
   "from": "de",
   "listenOnline": "Écouter en ligne",
@@ -14,5 +15,11 @@
   "publishedOn": "Publié le",
   "composer": "Compositeur",
   "author": "Auteur",
-  "months": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Decembre"]
+  "months": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Decembre"],
+  "lang": {
+    "en": "🇬🇧 Anglais",
+    "fr": "🇫🇷 Français",
+    "es": "🇪🇸 Espagnol",
+    "de": "🇩🇪 Allemand"
+  }
 }

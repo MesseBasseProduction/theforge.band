@@ -8,7 +8,11 @@ class BW {
 
 
   constructor() {
-    this._lang = (['fr', 'es', 'de'].indexOf(navigator.language.substring(0, 2)) !== -1) ? navigator.language.substring(0, 2) : 'en';
+    this._lang = localStorage.getItem('website-lang');
+    if (this._lang === null) {
+      this._lang = (['fr', 'es', 'de', 'en'].indexOf(navigator.language.substring(0, 2)) !== -1) ? navigator.language.substring(0, 2) : 'en';
+      localStorage.setItem('website-lang', this._lang);
+    }
     this._nls = null;
     this._band = null;
     this._version = '0.2.1';
@@ -34,6 +38,20 @@ class BW {
         data.json().then(nlsKeys => {
           if (DEBUG === true) { console.log(`2. Language keys successfully retrieven`); }
           this._nls = nlsKeys;
+
+          const select = document.getElementById('lang-select');
+          for (let i = 0; i < select.children.length; ++i) {
+            select.children[i].innerHTML = this._nls.lang[select.children[i].value];
+            if (select.children[i].value === this._lang) {
+              select.children[i].setAttribute('selected', true);
+            }
+          }
+          
+          select.addEventListener('change', e => {
+            localStorage.setItem('website-lang', e.target.value);
+            window.location.reload();
+          });
+
           resolve();
         }).catch(err => {
           if (DEBUG === true) { console.log(`Err. Can't parse language keys, the JSON file may be is invalid`); }
@@ -93,6 +111,8 @@ class BW {
     document.querySelector('#tree-link').innerHTML = `<img src="./assets/img/controls/find.svg" alt="listen">${this._nls.treeLink}`;
     document.querySelector('#musicians-section').innerHTML = this._nls.musicians;
     document.querySelector('#works-section').innerHTML = this._nls.works;
+    document.querySelector('#medias-section').innerHTML = this._nls.medias;
+    document.querySelector('#current-year').innerHTML = new Date().getFullYear();
 
     for (let i = 0; i < this._band.members.length; ++i) {
       const container = document.createElement('DIV');
@@ -126,6 +146,23 @@ class BW {
       container.appendChild(picture);
       container.appendChild(label);
       document.getElementById('releases').appendChild(container);      
+    }
+
+    // Iterate through band's medias
+    for (let i = 0; i < this._band.medias.length; ++i) {
+      let container = null;
+      if (this._band.medias[i].type === 'iframe') {
+        container = document.createElement('IFRAME');
+        container.title = this._band.medias[i].title;
+        container.src = this._band.medias[i].link;
+        container.setAttribute('sandbox', 'allow-same-origin allow-scripts allow-popups');
+        container.setAttribute('frameborder', '0');
+        container.setAttribute('allowfullscreen', '1');
+      } else if (this._band.medias[i].type === 'image') {
+        container = document.createElement('IMG');
+        container.src = this._band.medias[i].link;
+      }
+      document.getElementById('medias').appendChild(container);
     }
 
     new window.ScrollBar({

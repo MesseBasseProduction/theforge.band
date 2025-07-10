@@ -7,6 +7,7 @@
   "treeLink": "Find us online",
   "musicians": "Musicians",
   "works": "Pieces",
+  "mdeias": "Medias",
   "learnMore": "Click to read more",
   "from": "from",
   "listenOnline": "Listen online",
@@ -14,5 +15,11 @@
   "publishedOn": "Released on",
   "composer": "Composer",
   "author": "Author", 
-  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+  "lang": {
+    "en": "🇬🇧 English",
+    "fr": "🇫🇷 French",
+    "es": "🇪🇸 Spanish",
+    "de": "🇩🇪 German"
+  }
 }
