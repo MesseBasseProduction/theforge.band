@@ -800,8 +800,8 @@
     }
   ],
   "styles": {
-    "mainColor": "#D45656",
-    "gradientStart": "#4A4444",
-    "gradientEnd": "#663F3F"
+    "mainColor": "#FFBF00",
+    "gradientStart": "#3A585E",
+    "gradientEnd": "#365548"
   }
 }
