@@ -1,0 +1,10 @@
+services:
+  arn-messengers:
+    container_name: the_forge_node
+    build: .
+    command: npm run start
+    restart: always
+    ports:
+      - 8055:8055
+    environment:
+      - NODE_ENV=prod
