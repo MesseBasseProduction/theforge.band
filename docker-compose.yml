@@ -1,5 +1,5 @@
 services:
-  arn-messengers:
+  the-forge:
     container_name: the_forge_node
     build: .
     command: npm run start
