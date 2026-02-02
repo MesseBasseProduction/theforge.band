@@ -1,25 +1,41 @@
 {
-  "band": {
-    "name": "The Forge",
-    "desc": "The Forge es un grupo francés de rock progresivo fundado a principios de los 80. Con composiciones originales y variadas, el grupo ha dado forma a un sonido real a lo largo de los años."
+  "roles": {
+    "leadvocals": "Voces Principales",
+    "backvocals": "Coro",
+    "guitar": "Gitarra",
+    "saxophone": "Saxófono",
+    "trumpet": "Trompeta",
+    "trombone": "Trombón",
+    "keyboard": "Teclado",
+    "bass": "Bajo",
+    "doublebass": "Contrabajo",
+    "percussion": "Percusión",
+    "drums": "Batería"
   },
+  "eventsLink": "Míranos en vivo",
   "listenLink": "Ver la discografia",
   "treeLink": "Encuéntrenos en línea",
-  "musicians": "Los Músicos",
+  "events": "Próximos eventos",
+  "pastEvents": "Eventos pasados",
   "works": "Las Obras",
+  "musicians": "Los Músicos",
   "medias": "Medios",
-  "learnMore": "Más información",
-  "from": "de",
+  "pastMembers": "Miembros anteriores",
   "listenOnline": "Escuche en línea",
   "seeMore": "ver más",
   "publishedOn": "Publicado en",
-  "composer": "Compositor",
   "author": "Autor",
-  "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+  "composer": "Compositor",
+  "learnMore": "Más información",
+  "from": "de",
+  "to": "a",
+  "since": "desde",
+  "close": "Cerca",
   "lang": {
     "en": "🇬🇧 Inglés",
     "fr": "🇫🇷 Francés",
     "es": "🇪🇸 Español",
-    "de": "🇩🇪 Alemán"
+    "de": "🇩🇪 Alemán",
+    "it": "🇮🇹 Italiano"
   }
 }

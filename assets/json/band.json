@@ -1,44 +1,136 @@
 {
+  "name": "The Forge",
+  "bio": {
+    "de": "The Forge ist eine französische Progressive-Rock-Band, die Anfang der 1980er Jahre gegründet wurde. Die Gruppe verbindet mühelos mitreißende Riffs und Gitarren-Soli mit akribisch ausgearbeiteten Arrangements. Im Laufe ihrer Diskografie entwickelt sich ihr Sound von energiegeladenem Vocal-Hard-Rock zu instrumentalem Progressive Rock.<br><br>Ursprünglich unter dem Namen Macadam Forge bekannt, benannte sich die Band Mitte der 1990er Jahre in Le Forge um. Der Name änderte sich 2001 kurzzeitig in Small Pox, bevor sie sich schließlich für The Forge entschied, den sie bis heute trägt.",
+    "en": "The Forge is a French Progressive Rock band founded in the early 1980s. The group effortlessly blends fiery riffs and guitar solos over meticulously crafted arrangements. Throughout their discography, their sound evolves from energetic Vocal Hard Rock to Instrumental Progressive Rock.<br><br>Initially named Macadam Forge, the band was renamed Le Forge in the mid-1990s. The name changed again briefly in 2001 to Small Pox, before finally settling on The Forge, which remains their name to this day.",
+    "es": "The Forge es un grupo francés de Rock Progresivo fundado a principios de los años 80. El grupo mezcla con facilidad riffs enérgicos y solos de guitarra sobre arreglos elaborados con esmero. A lo largo de su discografía, su sonido evoluciona desde un Hard Rock Vocal lleno de energía hasta un Rock Progresivo Instrumental.<br><br>Inicialmente llamado Macadam Forge, el grupo cambió su nombre a Le Forge a mediados de los años 90. El nombre volvió a cambiar brevemente en 2001 a Small Pox, para finalmente quedarse como The Forge, que sigue siendo su nombre hasta hoy.",
+    "fr": "The Forge est un groupe de Rock Progressif français fondé au début des années 80. Le groupe mélange aisément riffs endiablés et solos de guitare, sur des arrangements concoctés aux petits oignons. Au fil de la discographie, le son évolue d'un Hard Rock Vocal énergique vers un Rock Progressif Instrumental.<br><br>Tout d'abord sous le nom de Macadam Forge, le groupe se renomme Le Forge au milieu des années 90. Le nom du groupe change à nouveau un court temps en 2001, pour devenir Small Pox, puis finalement The Forge jusqu'à aujourd'hui.",
+    "it": "The Forge è un gruppo francese di Rock Progressivo fondato all'inizio degli anni '80. Il gruppo mescola con facilità riff travolgenti e assoli di chitarra su arrangiamenti curati nei minimi dettagli. Nel corso della loro discografia, il suono evolve da un Hard Rock Vocale energico a un Rock Progressivo Strumentale.<br><br>Inizialmente chiamato Macadam Forge, il gruppo cambia nome in Le Forge a metà degli anni '90. Il nome cambia nuovamente per un breve periodo nel 2001 in Small Pox, per poi diventare definitivamente The Forge, che rimane il loro nome ancora oggi."
+  },
+  "bandPicture": "Band.webp",
   "members": [
     {
       "fullName": "Luc Boulogne",
       "picture": "Luc.webp",
       "pictureCredit": "Pascal Cosnier",
       "bio": {
-        "en": "<p>French guitarist and founder of the progressive rock band The Forge. Brother of musicians Paul Boulogne, Vincent Boulogne and Christophe Boulogne.</p>",
-        "fr": "<p>Guitariste français et fondateur du groupe de rock progressif The Forge. Frère des musiciens Paul Boulogne, Vincent Boulogne et Christophe Boulogne.</p>",
         "de": "<p>Französischer Gitarrist und Gründer der Progressive-Rock-Band The Forge. Bruder der Musiker Paul Boulogne, Vincent Boulogne und Christophe Boulogne.</p>",
-        "es": "<p>Guitarrista francés y fundador de la banda de rock progresivo The Forge. Hermano de los músicos Paul Boulogne, Vincent Boulogne y Christophe Boulogne.</p>"
-      }
+        "en": "<p>French guitarist and founder of the progressive rock band The Forge. Brother of musicians Paul Boulogne, Vincent Boulogne and Christophe Boulogne.</p>",
+        "es": "<p>Guitarrista francés y fundador de la banda de rock progresivo The Forge. Hermano de los músicos Paul Boulogne, Vincent Boulogne y Christophe Boulogne.</p>",
+        "fr": "<p>Guitariste français et fondateur du groupe de rock progressif The Forge. Frère des musiciens Paul Boulogne, Vincent Boulogne et Christophe Boulogne.</p>",
+        "it": "<p>Chitarrista francese e fondatore del gruppo di rock progressivo The Forge. Fratello dei musicisti Paul Boulogne, Vincent Boulogne e Christophe Boulogne.</p>"
+      }, 
+      "roles": ["guitar"],
+      "range": "1986-"
     }, {
       "fullName": "Vincent Boulogne",
       "picture": "Vincent.webp",
       "pictureCredit": "Pascal Cosnier",
       "bio": {
-        "en": "<p>French drummer of the progressive rock band The Forge. Brother of musicians Luc Boulogne, Paul Boulogne and Christophe Boulogne.</p>",
-        "fr": "<p>Batteur français du groupe de rock progressif The Forge. Frère des musiciens Luc Boulogne, Paul Boulogne et Christophe Boulogne.</p>",
         "de": "<p>Französischer Schlagzeuger der Progressive-Rock-Band The Forge. Bruder der Musiker Luc Boulogne, Paul Boulogne und Christophe Boulogne.</p>",
-        "es": "<p>Baterista francés de la banda de rock progresivo The Forge. Hermano de los músicos Luc Boulogne, Paul Boulogne y Christophe Boulogne.</p>"
-      }
+        "en": "<p>French drummer of the progressive rock band The Forge. Brother of musicians Luc Boulogne, Paul Boulogne and Christophe Boulogne.</p>",
+        "es": "<p>Baterista francés de la banda de rock progresivo The Forge. Hermano de los músicos Luc Boulogne, Paul Boulogne y Christophe Boulogne.</p>",
+        "fr": "<p>Batteur français du groupe de rock progressif The Forge. Frère des musiciens Luc Boulogne, Paul Boulogne et Christophe Boulogne.</p>",
+        "it": "<p>Batterista francese del gruppo di rock progressivo The Forge. Fratello dei musicisti Luc Boulogne, Paul Boulogne e Christophe Boulogne.</p>"
+      }, 
+      "roles": ["drums"],
+      "range": "1986-"
     }, {
       "fullName": "Tom Souty",
       "picture": "Tom.webp",
       "pictureCredit": "Arthur Beaulieu",
       "bio": {
-        "en": "<p>French guitarist and drummer from Clamart (Hauts-de-Seine), playing in The Forge, Naamah, It Comes at Night and NAC.</p>",
-        "fr": "<p>Guitariste et batteur français originaire de Clamart (Hauts-de-Seine), jouant dans The Forge, Naamah, It Comes at Night et NAC.</p>",
-        "de": "<p>Französischer Gitarrist und Schlagzeuger von Clamart (Hauts-de-Seine), der in The Forge, Naamah, It Comes at Night und NAC spielt.</p>",
-        "es": "<p>Guitarrista y baterista francés de Clamart (Hauts-de-Seine), tocando en The Forge, Naamah, It Comes at Night y NAC.</p>"
-      }
+        "de": "<p>Tom Souty ist ein französischer Gitarrist und Schlagzeuger aus Clamart (Hauts-de-Seine). Begierig, die weite Welt der Musik und ihre vielfältigen Formen zu erkunden, stellt sich Tom ständig neuen Herausforderungen, um seine musikalische Praxis zu diversifizieren.</p>",
+        "en": "<p>Tom Souty is a french guitarist and drummer from Clamart (Hauts-de-Seine). Eager to explore the wide music world and its many forms, Tom always challenges himself to diversify his musical practice.</p>",
+        "es": "<p>Tom Souty es un guitarrista y baterista francés originario de Clamart (Hauts-de-Seine). Ansioso por explorar el vasto mundo de la música y sus múltiples formas, Tom siempre se desafía a sí mismo para diversificar su práctica musical.</p>",
+        "fr": "<p>Tom Souty est un guitariste et batteur français originaire de Clamart (Hauts-de-Seine). Désireux d'explorer le vaste univers de la musique et ses multiples formes, Tom se challenge constamment pour diversifier sa pratique musicale.</p>",
+        "it": "<p>Tom Souty è un chitarrista e batterista francese originario di Clamart (Hauts-de-Seine). Ansioso di esplorare l'ampio mondo della musica e le sue numerose forme, Tom si sfida costantemente per diversificare la sua pratica musicale.</p>"
+      },
+      "roles": ["guitar"],
+      "range": "2014-"
     }, {
+      "fullName": "Jimmy Le Rhun",
+      "picture": "Jimmy.webp",
+      "pictureCredit": "Raphaël Beekmann",
+      "bio": {
+        "de": "<p>Jimmy, ein Bassist mit kraftvollem Groove und ausgeprägter melodischer Kreativität, stößt zu The Forge und wird schnell zu einer tragenden Säule des Bandklangs. Er bringt neue Energie und eine musikalische Handschrift ein, die das progressive Universum der Gruppe bereichert. Sein präzises und erfinderisches Spiel definiert die rhythmischen Grundlagen ihrer Kompositionen neu.</p>",
+        "en": "<p>Jimmy, a bassist with powerful groove and bold melodic creativity, joins The Forge and quickly establishes himself as a cornerstone of the band's sound, bringing fresh energy and a musical signature that enriches their progressive universe. His precise and inventive playing redefines the rhythmic foundations of their compositions.</p>",
+        "es": "<p>Jimmy, bajista de groove potente y creatividad melódica afirmada, se une a The Forge e inmediatamente se consolida como un pilar del sonido del grupo, aportando una energía renovada y una firma musical que enriquece su universo progresivo. Su estilo preciso e inventivo redefine los cimientos rítmicos de sus composiciones.</p>",
+        "fr": "<p>Jimmy, bassiste au groove puissant et à la créativité mélodique affirmée, rejoint The Forge et s'impose rapidement comme un pilier du son du groupe, apportant une énergie nouvelle et une signature musicale qui enrichit l'univers progressif du groupe. Son jeu précis et inventif redéfinit les fondations rythmiques de leurs compositions.</p>",
+        "it": "<p>Jimmy, bassista dal groove potente e dalla spiccata creatività melodica, si unisce a The Forge e si impone rapidamente come un pilastro del suono del gruppo, portando una nuova energia e una firma musicale che arricchisce l'universo progressivo della band. Il suo gioco preciso e inventivo ridefinisce le fondamenta ritmiche delle loro composizioni.</p>"
+      },
+      "roles": ["bass"],
+      "range": "2024-"
+    }
+  ],
+  "pastMembers": [
+    {
       "fullName": "Paul Boulogne",
       "picture": "Paul.webp",
       "pictureCredit": "Pascal Cosnier",
       "bio": {
-        "en": "<p>French bassist of the progressive rock band The Forge. Brother of musicians Luc Boulogne, Vincent Boulogne and Christophe Boulogne.</p>",
-        "fr": "<p>Bassiste français du groupe de rock progressif The Forge. Frère des musiciens Luc Boulogne, Vincent Boulogne et Christophe Boulogne.</p>",
         "de": "<p>Französischer Bassist der Progressive-Rock-Band The Forge. Bruder der Musiker Luc Boulogne, Vincent Boulogne und Christophe Boulogne.</p>",
-        "es": "<p>Bajista francés de la banda de rock progresivo The Forge. Hermano de los músicos Luc Boulogne, Vincent Boulogne y Christophe Boulogne.</p>"
+        "en": "<p>French bassist of the progressive rock band The Forge. Brother of musicians Luc Boulogne, Vincent Boulogne and Christophe Boulogne.</p>",
+        "es": "<p>Bajista francés de la banda de rock progresivo The Forge. Hermano de los músicos Luc Boulogne, Vincent Boulogne y Christophe Boulogne.</p>",
+        "fr": "<p>Bassiste français du groupe de rock progressif The Forge. Frère des musiciens Luc Boulogne, Vincent Boulogne et Christophe Boulogne.</p>",
+        "it": "<p>Bassista francese del gruppo di rock progressivo The Forge. Fratello dei musicisti Luc Boulogne, Vincent Boulogne e Christophe Boulogne.</p>"
+      },
+      "roles": ["bass"],
+      "range": "2014-2024"
+    }
+  ],
+  "events": [
+    {
+      "title": "Éphémère'n'Roll",
+      "picture": "MBPEVT027.webp",
+      "date": "2026-01-17",
+      "place": "Le Tremplin, Châteaufort",
+      "url": "https://www.facebook.com/events/748947891514829",
+      "description": {
+        "de": "<p>Ein Tag. Sieben Bands. Riffs, Lachen und Begegnungen. Am 17. Januar 2026 wird Châteaufort für einen Tag zur Hauptstadt des fetten Sounds. Willkommen beim Éphémère'n'Roll – wo die Musik für einen kurzen Moment lebt.</p>",
+        "en": "<p>One day. Seven bands. Riffs, laughter, and new connections. On January 17, 2026, Châteaufort becomes the capital of heavy sound for a single day. Welcome to Éphémère'n'Roll — where music comes alive, if only for a moment.</p>",
+        "es": "<p>Un día. Siete grupos. Riffs, risas y encuentros. El 17 de enero de 2026, Châteaufort se convierte en la capital del sonido potente por un día. Bienvenidos a Éphémère'n'Roll — donde la música vive, por un instante.</p>",
+        "fr": "<p>Un jour. Sept groupes. Des riffs, des rires et des rencontres. Le 17 janvier 2026, Châteaufort devient la capitale du gros son le temps d'une journée. Bienvenue à Éphémère'n'Roll — là où la musique vit, le temps d'un instant.</p>",
+        "it": "<p>Un giorno. Sette gruppi. Riff, risate e incontri. Il 17 gennaio 2026, Châteaufort diventa la capitale del suono potente per un giorno. Benvenuti a Éphémère'n'Roll — dove la musica vive, per un attimo.</p>"
+      }
+    }, {
+      "title": "Fête de la Musique",
+      "picture": "MBPEVT011.webp",
+      "date": "2024-06-21",
+      "place": "Place Jacques Demy - Paris",
+      "url": "https://www.facebook.com/events/1515947792606857",
+      "description": {
+        "de": "<p>The Forge ist zurück, um euch ein Fête de la Musique 2024 mit großer Sorgfalt zu präsentieren. Durch die Zusammenarbeit mit Double Dune, einem Jazz-Quintett, bieten die beiden Gruppen ein unvergessliches und abwechslungsreiches Konzert und werden zweifellos ein breites Publikum begeistern.</p>",
+        "en": "<p>The Forge is back to offer you a 2024 Fête de la Musique with meticulous care. By teaming up with Double Dune, a jazz quintet, the two groups present a memorable and varied concert and will, without a doubt, win over a wide audience.</p>",
+        "es": "<p>The Forge regresa para ofrecerles una Fiesta de la Música 2024 llena de detalles cuidados. Al unirse con Double Dune, quinteto de jazz, ambos grupos proponen un concerto memorable y variado, y sin duda conquistarán a un amplio público.</p>",
+        "fr": "<p>The Forge est de retour pour vous proposer une fête de la musique 2024 aux petits soins. En s'unissant avec Double Dune, quintet de Jazz, les deux groupes proposent un concert mémorable, varié et vont, sans aucun doute, conquir un vaste public.</p>",
+        "it": "<p>The Forge torna per proporvi una Festa della Musica 2024 curata nei minimi dettagli. Unendosi a Double Dune, quintetto jazz, i due gruppi offrono un concerto indimenticabile e vario e, senza dubbio, conquisteranno un vasto pubblico.</p>"
+      }    
+    }, {
+      "title": "Fête de la Musique",
+      "picture": "MBPEVT005.webp",
+      "date": "2023-06-21",
+      "place": "Place Jacques Demy - Paris",
+      "url": "https://www.facebook.com/events/1014709576632300/",
+      "description": {
+        "de": "<p>Anlässlich unserer berühmten und viel beneideten Fête de la Musique haben sich NAC und The Forge zusammengeschlossen, um ein energiegeladenes und kraftvolles Konzert direkt auf dem Bürgersteig zu geben. Dank eines großen Publikums, das voller Lust war, sich auszutoben, genossen beide Bands es, ihre Setlists zu präsentieren – bestehend aus Klassikern und vielen unveröffentlichten Songs!</p>",
+        "en": "<p>On the occasion of our famous and much-envied Fête de la Musique, NAC and The Forge joined forces to deliver an energetic and powerful concert right on the sidewalk. Thanks to a large crowd eager to let loose, both bands delighted in performing their setlists — filled with classics as well as many unreleased tracks!</p>",
+        "es": "<p>Con motivo de nuestra famosa y envidiada Fête de la Musique, NAC y The Forge se unieron para ofrecer un concierto enérgico y potente directamente en la acera. Gracias a un público numeroso y con un entusiasmo desbordante por desahogarse, ambas bandas disfrutaron interpretando sus setlists, compuestas por clásicos y también por muchos temas inéditos.</p>",
+        "fr": "<p>À l'occasion de notre célèbre et enviée fête de la musique, NAC et The Forge se sont associés pour proposer un concert énergique et tenace à même le trottoir. Grâce à un vaste public à l'envie débordante de se défouler, les deux groupes se sont délectés à dérouler leurs setlists, faites de classiques mais aussi de nombreux inédits!</p>",
+        "it": "<p>In occasione della nostra celebre e invidiata Fête de la Musique, NAC e The Forge si sono uniti per offrire un concerto energico e grintoso direttamente sul marciapiede. Grazie a un pubblico numeroso e desideroso di scatenarsi, entrambe le band si sono divertite a eseguire le loro setlist, composte da classici e da molti brani inediti.</p>"
+      }    
+    }, {
+      "title": "Concert Rock",
+      "picture": "MBPEVT001.webp",
+      "date": "2021-11-20",
+      "place": "MJC Jean Vilar - Igny",
+      "url": "https://www.facebook.com/events/218779547016796/",
+      "description": {
+        "de": "<p>Im Mittelpunkt standen NAC und The Forge – dieses Konzert bot NAC die Gelegenheit, ihr kürzlich veröffentlichtes Album Dystopie zu promoten, und The Forge konnte ihren Status als hochqualifizierte Techniker im Dienst der Musik festigen. Zweifellos trug das Publikum dazu bei, eine elektrisierende Atmosphäre zu schaffen, die dieses erste Messe Basse-Event zu etwas Außergewöhnlichem machte.</p>",
+        "en": "<p>Highlighting NAC and The Forge, this concert was an opportunity for NAC to promote their recently released album Dystopie, and for The Forge to affirm their status as highly skilled technicians in the service of music. Without a doubt, the audience helped create an electric atmosphere, making this first Messe Basse event truly exceptional.</p>",
+        "es": "<p>Destacando a NAC y The Forge, este concierto fue una oportunidad para que NAC promocionara su álbum Dystopie, recientemente lanzado, y para que The Forge consolidara su estatus de grandes técnicos al servicio de la música. Sin duda, el público contribuyó a crear una atmósfera eléctrica que hizo de este primer evento de Messe Basse algo excepcional.</p>",
+        "fr": "<p>Mettant en lumière NAC et The Forge, ce concert était pour NAC, l'occasion de promouvoir leur album Dystopie récemment sorti et à The Forge d'assoir leur statut de hauts techniciens au service de la note. Sans aucun doute, le public à permis l'installation d'une ambiance électrique rendant ce premier évènement de Messe Basse exceptionnel.</p>",
+        "it": "<p>Mettendo in risalto NAC e The Forge, questo concerto è stato per NAC l'occasione di promuovere il loro album Dystopie, uscito di recente, e per The Forge di consolidare il loro status di grandi tecnici al servizio della musica. Senza dubbio, il pubblico ha contribuito a creare un'atmosfera elettrizzante, rendendo questo primo evento di Messe Basse davvero eccezionale.</p>"
       }
     }
   ],
@@ -48,10 +140,11 @@
       "artist": "The Forge",
       "cover": "Musaic.webp",
       "audio": "MusaicExtract.mp3",
-      "date": "8-2-2024",
+      "date": "2024-02-08",
       "duration": "33:33",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
@@ -85,7 +178,7 @@
           "url": "https://www.discogs.com/release/29692798-The-Forge-Musa%C3%AFc"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/a807b189-9a50-4ded-90c1-f19e549b7041"
         }
       ],
       "tracks": [
@@ -116,10 +209,11 @@
       "artist": "The Forge",
       "cover": "Etica.webp",
       "audio": "EticaExtract.mp3",
-      "date": "7-10-2021",
+      "date": "2021-10-07",
       "duration": "32:44",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
@@ -153,7 +247,7 @@
           "url": "https://www.discogs.com/release/20503012-The-Forge-Etica-Nikomak/"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/b3fed13e-45e9-4ba9-a094-493b7dc5e912"
         }
       ],
       "tracks": [
@@ -184,10 +278,11 @@
       "artist": "The Forge",
       "cover": "Forge.webp",
       "audio": "ForgeExtract.mp3",
-      "date": "6-10-2021",
+      "date": "2021-10-06",
       "duration": "39:00",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
@@ -221,7 +316,7 @@
           "url": "https://www.discogs.com/release/20560249-The-Forge-The-Forge/"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/e6dc0740-4c50-4920-abb6-a7f5c23bbc3d"
         }
       ],
       "tracks": [
@@ -262,10 +357,11 @@
       "artist": "Live...!",
       "cover": "Live.webp",
       "audio": "LiveExtract.mp3",
-      "date": "25-11-2021",
+      "date": "2021-11-25",
       "duration": "1:17:33",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
@@ -275,7 +371,7 @@
           "url": "https://music.apple.com/album/live/1647737446/"
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.com/albums/B0BH2NTCHM"
         }, {
           "type": "deezer",
           "url": "https://www.deezer.com/album/362057537/"
@@ -299,7 +395,7 @@
           "url": "https://www.discogs.com/release/21077248-Small-Pox-Live/"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/4aca1b8c-dd04-43f4-8372-ecbbead35f7d"
         }
       ],
       "tracks": [
@@ -375,10 +471,11 @@
       "artist": "Small Pox",
       "cover": "Pox.webp",
       "audio": "PoxExtract.mp3",
-      "date": "5-10-2021",
+      "date": "2021-10-05",
       "duration": "29:35",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
@@ -412,7 +509,7 @@
           "url": "https://www.discogs.com/release/20548198-Small-Pox-Small-Pox/"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/fd6530ed-63aa-4830-9874-9f993cf33dff"
         }
       ],
       "tracks": [
@@ -443,10 +540,11 @@
       "artist": "Le Forge",
       "cover": "Dur.webp",
       "audio": "DurExtract.mp3",
-      "date": "4-10-2021",
+      "date": "2021-10-04",
       "duration": "19:00",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
@@ -480,7 +578,7 @@
           "url": "https://www.discogs.com/release/20515321-Le-Forge-Dur-d%C3%8Atre-Apache/"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/b87d21c0-c8bc-478d-a523-e06867be883d"
         }
       ],
       "tracks": [
@@ -511,10 +609,11 @@
       "artist": "Macadam Forge",
       "cover": "Gennevilliers.webp",
       "audio": "GennevilliersExtract.mp3",
-      "date": "06-05-2022",
+      "date": "2022-05-06",
       "duration": "31:30",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
@@ -548,7 +647,7 @@
           "url": "https://www.discogs.com/release/23129375-Macadam-Forge-Live-%C3%A0-Gennevilliers/"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/4e06b1f0-71c3-4f55-b8bf-8cd3b8177a26"
         }
       ],
       "tracks": [
@@ -594,10 +693,11 @@
       "artist": "Macadam Forge",
       "cover": "Macadam.webp",
       "audio": "MacadamExtract.mp3",
-      "date": "17-11-2021",
+      "date": "2021-11-17",
       "duration": "8:11",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
@@ -631,7 +731,7 @@
           "url": "https://www.discogs.com/release/21012571-Macadam-Forge-Loulou-Montpar-Blues/"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release/1d98affb-e6cc-421f-b30e-bf5dc67a7586"
         }
       ],
       "tracks": [
@@ -693,6 +793,15 @@
       "type": "discogs",
       "name": "Discogs",
       "url": "https://www.discogs.com/artist/8570763-The-Forge-2"
+    }, {
+      "type": "musicbrainz",
+      "name": "MusicBrainz",
+      "url": "https://musicbrainz.org/artist/bdd0279f-1c11-4b51-90f7-cd3628368b1d"
     }
-  ]
+  ],
+  "styles": {
+    "mainColor": "#D45656",
+    "gradientStart": "#4A4444",
+    "gradientEnd": "#663F3F"
+  }
 }

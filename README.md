@@ -1,21 +1,34 @@
+# theforge.band
+
+The official website for the progressive rock band The Forge.
+This website is based on the template [https://github.com/MesseBasseProduction/BandWebsite/](BandWebsite). Here is the README associated to BandWebsite :
+
 # BandWebsite
 
-A band's website template with a description, a page to listen tracks and finally, a link tree to share all of the band's links! Translated in FR, EN, ES, DE.
+![](https://badgen.net/badge/version/1.2.2/blue)
+[![License](https://img.shields.io/github/license/MesseBasseProduction/BandWebsite.svg)](https://github.com/MesseBasseProduction/BandWebsite/blob/main/LICENSE)
 
-When cloned, you need to perform several operations so the website is fully customized to your need :
+A static website template for a band, providing pages where one can find the band's biography, a list of current and past members, a list of the band's releases and a set of medias. Additionnaly to this landing page, the template also provides a page to listen to tracks and finally, a link tree to share all of the band's links! Translated in French 🇫🇷, English 🇬🇧, Spanish 🇪🇸, Italian 🇮🇹 and German 🇩🇪. This website was meant to be as light as possible, keeping it's assets to the minimum so the navigation is lightning fast (~50Ko of bunddled assets)!
 
-- fill HTML files, mostly for title and description (head tag) ;
-- replace the band logo and the favicons\* in `assets/img/` ;
+# Get started
+
+For system administrator, here are the guidelines to fully customize this template website to your band's needs. Right after you cloned this repository, complete the following :
+
+- fill HTML files (`index.html`, `events.html`, `listen.html`, `tree.html`), mostly for title and description (head tag), in `assets/html/` ;
+- replace the band logo and the favicons\*, in `assets/img/` ;
 - fill `assets/audio/` with mp3 extracts of the releases you want to make available to listeners ;
-- fill `assets/img/releases/` with releases' artworks ;
-- fill `assets/img/artists/` with band members' picture ;
-- fill the `assets/json/{lang}.json` with the band information ;
-- fill the `assets/json/band.json` with artist members, links and releases\*\* ;
-- create your custom `index.html` file so it reflect the band's will.
+- fill `assets/img/releases/` with releases' artworks (1:1 recommended) ;
+- fill `assets/img/artists/` with band members' pictures (1:1 recommended) ;
+- fill `assets/img/events/` with band events' pictures (16;9 recommended) ;
+- fill the `assets/json/band.json` with artist members, links, events, releases, medias and styles\*\* ;
 
-\* Favicon can be generated using a website such as [https://www.favicon-generator.org/](https://www.favicon-generator.org/).
+\* *Favicon can be generated using a website such as [https://www.favicon-generator.org/](https://www.favicon-generator.org/).*
 
-\*\* In the JSON files ; in links, you can erase links that are not relevant for the band. In the releases, links/moreLinks urls should be empty but don't erase them. In the tracks, composer or author can be empty (and will not be displayed) 
+\*\* *In the JSON files ; in links, you can erase links that are not relevant for the band. In the releases, links/moreLinks urls should be empty but don't erase them. In the tracks, composer or author can be empty (and will not be displayed).*
+
+Once these steps are completed, you're good to put this website on production. No specific need to bundle assets, but if you're willing to do so anyway, juste perform `npm install && npm run build` so assets are production-ready. In case you want to developp, and make webpack to listen to any updates in the `.scss` or `.js` files, you can use `npm run watch` and `npm run start` so a development http server is also running.
 
 Supported links to be displayed :
-Facebook, YouTube, Spotify, Apple Music, Deezer, Amazon Music, Tidal, SoundCloud, Bandcamp, Discogs, Genius, MusicBrainz, Instagram, Flickr, Github, LinkedIn
+7Digital, Amazon Music, Apple Music, Bandcamp, Beatport, Deezer, Discogs, Facebook, Flickr, Genius, Github, Instagram, Junodownload, LinkedIn, Mixcloud, MusicBrainz, Qobuz, SoundCloud, Spotify, Tidal, Twitter, YouTube
+
+**Messe Basse Production, GPL-v3.0 -- 2021/2026**

@@ -1,25 +1,41 @@
 {
-  "band": {
-    "name": "The Forge",
-    "desc": "The Forge ist eine Anfang der 80er gegründete französische Progressive-Rock-Gruppe, die mit originellen und abwechslungsreichen Kompositionen im Laufe der Jahre einen echten Sound geprägt hat."
+  "roles": {
+    "leadvocals": "Hauptgesang",
+    "backvocals": "Chöre",
+    "guitar": "Gitarre",
+    "saxophone": "Saxophon",
+    "trumpet": "Trompete",
+    "trombone": "Posaune",
+    "keyboard": "Tastatur",
+    "bass": "Niedrig",
+    "doublebass": "Bass",
+    "percussion": "Schlagzeug",
+    "drums": "Batterie"
   },
+  "eventsLink": "Erleben Sie uns live",
   "listenLink": "Siehe die Diskographie",
   "treeLink": "Finden Sie uns im Internet",
-  "musicians": "Die Musiker",
+  "events": "Kommende Veranstaltungen",
+  "pastEvents": "Vergangene Ereignisse",
   "works": "Stücke",
+  "musicians": "Die Musiker",
   "medias": "Durchschnitt",
-  "learnMore": "Mehr erfahren",
-  "from": "von",
+  "pastMembers": "Frühere Mitglieder",
   "listenOnline": "Online anhören",
   "seeMore": "mehr sehen",
   "publishedOn": "Veröffentlicht am",
-  "composer": "Komponist",
   "author": "Autor",
-  "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+  "composer": "Komponist",
+  "learnMore": "Mehr erfahren",
+  "from": "von",
+  "to": "bis",
+  "since": "seit",
+  "close": "Schließen",
   "lang": {
     "en": "🇬🇧 Englisch",
     "fr": "🇫🇷 Französisch",
     "es": "🇪🇸 Spanische",
-    "de": "🇩🇪 Deutsch"
+    "de": "🇩🇪 Deutsch",
+    "it": "🇮🇹 Italienisch"
   }
 }
