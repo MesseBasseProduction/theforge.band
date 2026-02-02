@@ -626,7 +626,7 @@
           "url": "https://music.amazon.com/albums/B0BGZMDHWL/"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/fr/album/362057627/"
+          "url": ""
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=6fWu4vp6k88&list=PLGrV25VkQxOcPKANmt-KL5WxtvMyw7WLb&index=1/"
@@ -772,7 +772,7 @@
     }, {
       "type": "apple",
       "name": "Apple Music",
-      "url": "https://music.apple.com/artist/the-forge/1590604311/"
+      "url": "https://music.apple.com/artist/the-forge/1590604311"
     }, {
       "type": "deezer",
       "name": "Deezer",
@@ -784,7 +784,7 @@
     }, {
       "type": "tidal",
       "name": "Tidal",
-      "url": "https://listen.tidal.com/artist/8912776/"
+      "url": "https://tidal.com/artist/42857587"
     }, {
       "type": "bandcamp",
       "name": "Bandcamp",
